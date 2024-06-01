@@ -1,0 +1,8 @@
+*.html
+*.tex
+.vscode
+.vscode/
+./.vscode
+reference
+reference/
+./reference
