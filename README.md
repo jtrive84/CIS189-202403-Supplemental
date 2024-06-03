@@ -3,14 +3,14 @@
 
 
 ### 2024-06-04:
-
+- Announcements
 - Prior module grade distributions
 - Review prior module assignments
 - Review prior module practice problems
 - Buddy debugging
 - Jupyter Notebook demo
 - Module 4 notebook walkthrough
-- Module 5 notebook walkthrough
+- Loop like a native: while, for, iterators, generators https://www.youtube.com/watch?v=EnSu9hHGq5o&t=157s
 - [Big Book of Small Python Projects](https://inventwithpython.com/bigbookpython/)
 
 
@@ -22,7 +22,5 @@
 - Buddy debugging (first time in fully online class)
 - Module 2 notebook walkthrough
 - Module 3 notebook walkthrough
-
-
 
 
