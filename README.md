@@ -1,14 +1,20 @@
 
 ## CIS189 Summer 2024 Class Agenda
 
+### 2024-06-18:
+
+W.I.P.
+
+
+
 ### 2024-06-11:
-- Announcements
-- Prior module grade distributions
-- Review prior module assignments
+- ~~Announcements~~
+- ~~Prior module grade distributions~~
+- ~~Review prior module assignments~~
 - ~~Review prior module practice problems~~
-- Buddy debugging
-- Module 6 & 7 notebook walkthrough
-- [Introduction to Unit Testing](https://www.youtube.com/watch?v=HKTyOUx9Wf4)
+- ~~Buddy debugging~~
+- ~~Module 6 & 7 notebook walkthrough~~
+- ~~[Introduction to Unit Testing](https://www.youtube.com/watch?v=HKTyOUx9Wf4)~~
 - [PEP8](https://peps.python.org/pep-0008/)
 - [Big Book of Small Python Projects](https://inventwithpython.com/bigbookpython/)
 
