@@ -3,7 +3,13 @@
 
 ### 2024-06-18:
 
-W.I.P.
+- Announcements
+- Prior module grade distributions   
+- Review prior module assignments   
+- Module 8 notebook walkthrough   
+- In-Class Assignment
+- [PEP8](https://peps.python.org/pep-0008/)
+- [Big Book of Small Python Projects](https://inventwithpython.com/bigbookpython/)
 
 
 
