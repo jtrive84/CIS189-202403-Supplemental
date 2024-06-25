@@ -1,13 +1,26 @@
 
 ## CIS189 Summer 2024 Class Agenda
 
-### 2024-06-18:
+### 2024-06-25:
 
 - Announcements
 - Prior module grade distributions   
 - Review prior module assignments   
-- Module 8 notebook walkthrough   
-- In-Class Assignment
+- Module 8 in-class assignment (last part)
+- [Python Object Oriented Programming in 10 minutes](https://www.youtube.com/watch?v=q2SGW2VgwAM&t=28s)
+- Module 10 notebook walkthrough  
+- [PEP8](https://peps.python.org/pep-0008/)
+- [Big Book of Small Python Projects](https://inventwithpython.com/bigbookpython/)
+
+
+
+### 2024-06-18:
+
+- ~~Announcements~~
+- ~~Prior module grade distributions~~ 
+- ~~Review prior module assignments~~
+- ~~Module 8 notebook walkthrough~~ 
+- ~~In-Class Assignment~~
 - [PEP8](https://peps.python.org/pep-0008/)
 - [Big Book of Small Python Projects](https://inventwithpython.com/bigbookpython/)
 
