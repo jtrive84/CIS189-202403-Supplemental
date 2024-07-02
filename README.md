@@ -1,6 +1,10 @@
 
 ## CIS189 Summer 2024 Class Agenda
 
+- [PEP8](https://peps.python.org/pep-0008/)
+- [Big Book of Small Python Projects](https://inventwithpython.com/bigbookpython/)
+
+
 ### 2024-07-02:
 
 - Announcements
@@ -10,9 +14,6 @@
 - Final project
 - ~~Luhn Algorithm~~
 - Module 11 notebook walkthrough  
-- [PEP8](https://peps.python.org/pep-0008/)
-- [Big Book of Small Python Projects](https://inventwithpython.com/bigbookpython/)
-
 
 
 ### 2024-06-25:
@@ -23,9 +24,6 @@
 - ~~Module 8 in-class assignment (last part)~~
 - ~~[Python Object Oriented Programming in 10 minutes](https://www.youtube.com/watch?v=q2SGW2VgwAM&t=28s)~~
 - ~~Module 10 notebook walkthrough~~
-- [PEP8](https://peps.python.org/pep-0008/)
-- [Big Book of Small Python Projects](https://inventwithpython.com/bigbookpython/)
-
 
 
 ### 2024-06-18:
@@ -35,9 +33,6 @@
 - ~~Review prior module assignments~~
 - ~~Module 8 notebook walkthrough~~ 
 - ~~In-Class Assignment~~
-- [PEP8](https://peps.python.org/pep-0008/)
-- [Big Book of Small Python Projects](https://inventwithpython.com/bigbookpython/)
-
 
 
 ### 2024-06-11:
@@ -48,9 +43,6 @@
 - ~~Buddy debugging~~
 - ~~Module 6 & 7 notebook walkthrough~~
 - ~~[Introduction to Unit Testing](https://www.youtube.com/watch?v=HKTyOUx9Wf4)~~
-- [PEP8](https://peps.python.org/pep-0008/)
-- [Big Book of Small Python Projects](https://inventwithpython.com/bigbookpython/)
-
 
 
 ### 2024-06-04:
@@ -62,8 +54,6 @@
 - ~~Jupyter Notebook demo~~
 - ~~Module 4 notebook walkthrough~~
 - ~~Loop like a native: while, for, iterators, generators https://www.youtube.com/watch?v=EnSu9hHGq5o&t=157s~~
-- [Big Book of Small Python Projects](https://inventwithpython.com/bigbookpython/)
-
 
 ### 2024-05-28:
 
