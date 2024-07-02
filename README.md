@@ -8,7 +8,7 @@
 - Review prior module assignments   
 - Array discussion
 - Final project
-- Luhn's Algorithm (possibly, maybe next week)
+- ~~Luhn Algorithm~~
 - Module 11 notebook walkthrough  
 - [PEP8](https://peps.python.org/pep-0008/)
 - [Big Book of Small Python Projects](https://inventwithpython.com/bigbookpython/)
