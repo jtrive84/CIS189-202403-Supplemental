@@ -5,7 +5,7 @@ Here’s how if `__name__ == "__main__"` works:
 
 Module vs. Script Execution:
 
-When you write a Python script and execute it directly with python script.py, Python sets a special built-in variable called `__name__` to `"__main__"`.
+When you write a Python script and execute it directly with `python script.py`, Python sets a special built-in variable called `__name__` to `"__main__"`.
 
 When a script is imported as a module into another script or interactive session, Python sets `__name__` to the name of the module (e.g., "module_name").
 
