@@ -7,13 +7,13 @@
 
 ### 2024-07-02:
 
-- Announcements
-- Prior module grade distributions   
-- Review prior module assignments   
-- Array discussion
-- Final project
+- ~~Announcements~~
+- ~~Prior module grade distributions~~   
+- ~~Review prior module assignments~~  
+- ~~Array discussion~~
+- ~~Final project~~
 - ~~Luhn Algorithm~~
-- Module 11 notebook walkthrough  
+- ~~Module 11 notebook walkthrough~~   
 
 
 ### 2024-06-25:
