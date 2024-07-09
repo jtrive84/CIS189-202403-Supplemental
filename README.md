@@ -5,6 +5,17 @@
 - [Big Book of Small Python Projects](https://inventwithpython.com/bigbookpython/)
 
 
+### 2024-07-09
+
+- Announcements
+- Final project reminder
+- Prior module grade distributions  
+- Review prior module assignments   
+- Luhn algorithm in-class project    
+- Module 12 notebook walkthrough   
+
+
+
 ### 2024-07-02:
 
 - ~~Announcements~~
@@ -12,7 +23,7 @@
 - ~~Review prior module assignments~~  
 - ~~Array discussion~~
 - ~~Final project~~
-- ~~Luhn Algorithm~~
+- ~~Luhn Algorithm (postponed)~~
 - ~~Module 11 notebook walkthrough~~   
 
 
@@ -54,6 +65,7 @@
 - ~~Jupyter Notebook demo~~
 - ~~Module 4 notebook walkthrough~~
 - ~~Loop like a native: while, for, iterators, generators https://www.youtube.com/watch?v=EnSu9hHGq5o&t=157s~~
+
 
 ### 2024-05-28:
 
