@@ -16,7 +16,7 @@
 
 ### 2024-07-09
 
-- ~~AAnnouncements~~
+- ~~Announcements~~
 - ~~Final project reminder~~
 - ~~Prior module grade distributions~~
 - ~~Review prior module assignments~~   
