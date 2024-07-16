@@ -6,3 +6,5 @@
 reference
 reference/
 ./reference
+__pycache__
+

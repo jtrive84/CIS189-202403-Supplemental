@@ -5,14 +5,23 @@
 - [Big Book of Small Python Projects](https://inventwithpython.com/bigbookpython/)
 
 
+### 2024-07-16
+
+- Announcements  
+- Final project  
+- Assignment resubmissions  
+- Prior module grade distributions      
+- Module 13 notebook walkthrough     
+
+
 ### 2024-07-09
 
-- Announcements
-- Final project reminder
-- Prior module grade distributions  
-- Review prior module assignments   
-- Luhn algorithm in-class project    
-- Module 12 notebook walkthrough   
+- ~~AAnnouncements~~
+- ~~Final project reminder~~
+- ~~Prior module grade distributions~~
+- ~~Review prior module assignments~~   
+- ~~Luhn algorithm in-class project~~    
+- ~~Module 12 notebook walkthrough~~
 
 
 
